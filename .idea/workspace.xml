@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb5740f8-1f43-4eb1-8ed8-133f580296ab" name="Default Changelist" comment="Project IDEA">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutputdenganMessageDialog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutputdenganMessageDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outputdengansout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outputdengansout.java" afterDir="false" />
+    <list default="true" id="bb5740f8-1f43-4eb1-8ed8-133f580296ab" name="Default Changelist" comment="Membuat String dari Array Char">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +30,21 @@
     </recent_temporary>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Membuat String dari Array Char">
+      <created>1623474915987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623474915987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Membuat String dari Array Char">
+      <created>1623475142892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623475142893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +58,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Membuat String dari Array Char" />
+    <option name="LAST_COMMIT_MESSAGE" value="Membuat String dari Array Char" />
   </component>
 </project>
